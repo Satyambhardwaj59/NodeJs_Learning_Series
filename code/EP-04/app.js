@@ -41,3 +41,4 @@ const data = require("./data.json");     // JSON file import
 
 console.log(data);
 console.log(data.name);
+console.log(data.age);
